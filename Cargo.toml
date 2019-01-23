@@ -1,0 +1,10 @@
+[package]
+name = "muchtodo"
+version = "0.1.0"
+authors = ["Jamie Kyle <me@thejameskyle.com>"]
+edition = "2018"
+
+[dependencies]
+grep = "^0.2.3"
+ignore = "^0.4"
+globset = "^0.4.2"
